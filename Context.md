@@ -32,6 +32,8 @@ Each ship has a certain fuel storage and fuel consumption rate. This needs to be
 Already 'developed': A voyage can be created using a wizard in the UI. First the tour is given a name, second the stops are added. Finally the vessel is chosen and its characteristics are coupled to the voyage.
 Once this wizard has been completed, you can publish the voyage. A published voyage can be cancelled.
 
+A customer can also buy a ticket for a cabin having a certain type and capacity.
+
 _Your mission:_
 
 Take a look at the existing code. It has a number of (according to the CEO) 'small' flaws. 
