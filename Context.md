@@ -1,4 +1,7 @@
 Company: Holy Ship! Cruising Company
+
+*This is a speech-to-text excerpt based on an interview with the CEO of the company*
+
 The Holy Ship! Cruising Company (HSCC) offers worldwide water voyages to 1000s of customers every year. 
 
 The HSCC has a fleet of different ship types (eg: Number of passengers, entertainment facilities on board, fuel consumption rate, etc...).
@@ -23,3 +26,6 @@ If the voyage is financially viable, the credit cards of the clients are credite
 At this point, we also need to schedule the personnel needed.
 
 Each ship has a certain fuel storage and fuel consumption rate. This needs to be taken into account when planning a voyage. Stops need to be planned where the ship can be refueled.
+
+*AS IS and TO BE*
+TODO
