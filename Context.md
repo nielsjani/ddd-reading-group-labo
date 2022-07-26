@@ -28,4 +28,22 @@ At this point, we also need to schedule the personnel needed.
 Each ship has a certain fuel storage and fuel consumption rate. This needs to be taken into account when planning a voyage. Stops need to be planned where the ship can be refueled.
 
 *AS IS and TO BE*
-TODO
+
+Already 'developed': A voyage can be created using a wizard in the UI. First the tour is given a name, second the stops are added. Finally the vessel is chosen and its characteristics are coupled to the voyage.
+Once this wizard has been completed, you can publish the voyage. A published voyage can be cancelled.
+
+_Your mission:_
+
+Take a look at the existing code. It has a number of (according to the CEO) 'small' flaws. 
+Redesign/Refactor with the DDD mindset and keep the rest of the given context in mind.
+
+One of the HSCC customers (Mr De Bie and Mr Jani) will be in your group to answer all your (functional) questions.
+
+Potential deliverables:
+- Schema with Aggregate - Entities - Value Objects (eg in Mural or Draw.io)
+- Refactor the code: 
+  - What should an Aggregate/Value object look like? 
+  - What properties should it (not) have?
+  - Other topics like factories, services or repositories (etc) should also be considered
+- Can your design also handle the other requirements mentioned in the context? What problems would occur with the current setup?
+- 
